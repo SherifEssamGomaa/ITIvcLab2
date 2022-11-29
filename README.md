@@ -1,11 +1,11 @@
-#To remove dev branch
+# To remove dev branch
 1) Locally: git branch -d dev
 2) Remotely: git push origin :dev
 
-#To list tags
+# To list tags
 git tag 
 
-#To delete tags
+# To delete tags
 1) Locally: git tag -d v1.7
 2) Remotely: git push origin --delete v1.7
 
